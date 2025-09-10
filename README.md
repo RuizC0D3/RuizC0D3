@@ -5,3 +5,12 @@
 - 🌱 I’m currently learning AWS
 - 👯 I’m currently collaborate on ROCAS
 - 🤔 I’m looking for help with B4X
+
+<div align="center">
+ <a href="https://github.com/RuizC0D3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuizC0D3&theme=darcula&show_icons=true" />
+</a>
+<a href="https://github.com/RuizC0D3">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RuizC0D3&theme=darcula" />
+</a>
+<br>
