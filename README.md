@@ -47,10 +47,10 @@
 <p></p>
 
 <a href="https://github.com/RuizC0D3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuizC0D3&theme=transparent&hide_border=ture&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuizC0D3&theme=transparent&hide_border=true&show_icons=true" />
     </a>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RuizC0D3&theme=transparent&hide_border=true&exclude_days=Sun" alt="GitHub Streak" /></a>
     <br>
-    
+
 </div>
 
