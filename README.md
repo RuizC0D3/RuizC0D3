@@ -4,10 +4,10 @@
 
 <h2>"If you can imagine it, you can program it"</h2>
 
-<p> - 🔭 I’m currently working on @PokerLap </p>
-<p> - 🌱 I’m currently learning AWS </p>
+<p> - 🔭 I’m currently working on PokerLap</p>
+<p> - 🌱 I’m currently learning AWS</p>
 <p> - 👯 I’m currently collaborate on ROCAS </p>
-<p> - 🤔 I’m looking for help with B4 </p>
+<p> - 🤔 I’m looking for help with B4X</p>
 
 <h2>Technologies I have worked with or am learning </h2>
   <img <alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -49,7 +49,7 @@
 <a href="https://github.com/RuizC0D3">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuizC0D3&theme=transparent&hide_border=true&show_icons=true" />
     </a>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RuizC0D3&theme=transparent&hide_border=true&exclude_days=Sun" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RuizC0D3&theme=transparent&hide_border=true&exclude_days=Sat" alt="GitHub Streak" /></a>
     <br>
 
 </div>
