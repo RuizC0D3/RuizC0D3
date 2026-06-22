@@ -7,7 +7,7 @@
 <p> - 🔭 I’m currently working on PokerLap</p>
 <p> - 🌱 I’m currently learning AWS</p>
 <p> - 👯 I’m currently collaborate on ROCAS </p>
-<p> - 🤔 I’m looking for help with B4X</p>
+<p> - 🤔 I’m looking for help with FLUTTER</p>
 
 <h2>Technologies I have worked with or am learning </h2>
   <img <alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -35,7 +35,6 @@
   <img <alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img <alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img <alt="Android Studio" src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)"/>
-  <img <alt="chatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
   <p></p>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
